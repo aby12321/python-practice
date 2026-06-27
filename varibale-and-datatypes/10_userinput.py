@@ -1,0 +1,1 @@
+value = input("enter your value.....")
